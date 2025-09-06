@@ -1,9 +1,7 @@
-# CAM: The Community Atmosphere Model
+# Modified CAM: The Community Atmosphere Model
 
-## NOTE: This is **unsupported** development code and is subject to the [CESM developer's agreement](http://www.cgd.ucar.edu/cseg/development-code.html).
+Modified CESM2/CAM with sea-state dependent surface fluxes
 
-### CAM Documentation - https://ncar.github.io/CAM/doc/build/html/index.html
+Cite as:
 
-### CAM6 namelist settings - http://www.cesm.ucar.edu/models/cesm2/settings/current/cam_nml.html
-
-Please see the [wiki](https://github.com/ESCOMP/CAM/wiki) for complete documentation on CAM, getting started with git and how to contribute to CAM's development.
+Shi, X., Q. Li, D. V. Lestari, S. Lin, and. H. Su, 2025: The Effects of Sea-State-Dependent Surface Fluxes on CESM2 Climate Simulations, Journal of Advances in Modeling Earth Systems, under review.
